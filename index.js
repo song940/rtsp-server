@@ -1,0 +1,7 @@
+exports.STATUS_CODES = require('./lib/status-codes')
+exports.Decoder = require('./lib/decoder')
+exports.Encoder = require('./lib/encoder')
+exports.IncomingMessage = require('./lib/incoming-message')
+exports.OutgoingMessage = require('./lib/outgoing-message')
+exports.Request = require('./lib/request')
+exports.Response = require('./lib/response')
